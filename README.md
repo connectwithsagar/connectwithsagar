@@ -88,4 +88,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=connectwithsagartheme=darkhub&no-frame=false&no-bg=false&margin-w=4)
 
 ## Contribution Graph
-<img src="https://camo.githubusercontent.com/aaa316f7de2fd3e4649a904c968839213655a0737cbc9ff4e9eb33e1ec4083cd/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682e76657263656c2e6170702f67726170683f757365726e616d653d6f686e6f676175726176267261646975733d3136267468656d653d7265646963616c26617265613d74727565266f726465723d35" height="300" alt="activity-graph graph" data-canonical-src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithsagar&amp;radius=16&amp;theme=redical&amp;area=true&amp;order=5" style="max-width: 100%;">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=connectwithsagar&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph" style="max-width: 100%;">
