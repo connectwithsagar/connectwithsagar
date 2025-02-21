@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=connectwithsagar&color=blue)<br>
 
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJ3N2Z3bWRzejRoNzYwMDNlbmFicXppeGw5ZmJ2N2E4YWltMGsweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/95fgnAlZAJ8Evp90R1/giphy.gif" />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" />
 </div>
 
 ###  💫  Insanely Passionate and Ambitious Programmer 🚀<br>
